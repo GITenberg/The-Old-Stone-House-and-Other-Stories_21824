@@ -17,6 +17,8 @@ creator:
 description: 'Short stories written by Anna Katharine Green. This collection includes:
   The Old Stone House, A Memorable Night, The Black Cross, A Mysterious Case, Shall
   He Wed Her?'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21824#The-Old-Stone-House-and-Other-Stories
 gutenberg_issued: '2007-06-13'
 gutenberg_type: Text
 identifiers:
